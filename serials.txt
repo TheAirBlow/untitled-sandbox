@@ -1,0 +1,2 @@
+# This is the list of serial numbers
+# That my games can run with.
